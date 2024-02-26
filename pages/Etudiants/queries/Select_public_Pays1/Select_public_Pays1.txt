@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  public.Pays
+WHERE
+  "Afghanistan" ilike '%{{Natioanlite.filterText}}%'

@@ -1,0 +1,1 @@
+SELECT COUNT(*) from public.Documents where LienDoc ilike '%{{Table1.searchText}}%';

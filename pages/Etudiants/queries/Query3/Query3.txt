@@ -1,0 +1,1 @@
+SELECT * FROM public."Etudiant" LIMIT 10;
